@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;1,700&family=Roboto:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;1,700&family=Roboto:wght@300&display=swap');
 
 * {
     margin: 0;
@@ -34,7 +34,8 @@ body {
     background-color: transparent;
     border: none;
     outline: none;
-    color: #d63e3e;
+    color: #5e0469;
+
     padding: 20px 100px 20px 20px;
     font-size: 30px;
 }
@@ -48,9 +49,9 @@ body {
     font-size: 30px;
     border: none;
     outline: none;
-    padding-left: 1px;
-    padding-top: 8px;
     color: #5e0469;
+    padding-top: 0.5px;
+    padding-left: 1px;
 }
 
 .search.open {
