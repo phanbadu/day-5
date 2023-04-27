@@ -53,6 +53,12 @@ body {
     color: #5e0469;
     padding-top: 0.5px;
     padding-left: 1px;
+    box-shadow: 0 0 5px rgb(112, 110, 110);
+}
+
+.search__btn:hover {
+    cursor: pointer;
+    background: linear-gradient(to right, #cee6ce, #e6cdc3);
 }
 
 .search.open {
